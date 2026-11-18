@@ -38,8 +38,6 @@ The following activities were completed:
 
 The `evidence/` directory contains selected screenshots documenting the practical workflow and successful completion.
 
-The `notes/` directory is reserved for additional observations and practical notes.
-
 **Security note:** Recovered passwords, complete extracted hashes, and unlocked PDF files are intentionally excluded from this public repository.
 
 ## Scope and Responsible Use
