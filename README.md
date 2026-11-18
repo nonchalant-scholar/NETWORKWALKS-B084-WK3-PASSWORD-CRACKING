@@ -48,12 +48,10 @@ NETWORKWALKS-B084-WK3-PASSWORD-CRACKING/
 ├── W3-PM1-JTR/
 │   ├── README.md
 │   ├── evidence/
-│   └── notes/
 │
 └── W3-PM2-Networkwalks-Tools/
     ├── README.md
     ├── evidence/
-    └── notes/
 ```
 
 ## Learning Outcomes
